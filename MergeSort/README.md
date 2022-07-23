@@ -27,4 +27,4 @@ Devamında Sıralayarak Birleştiriyoruz
 |:--|:---|:---|:---|:---|:---|
 
 
-## Time Complexity : O(n^2)
+## Time Complexity : O(n²)
