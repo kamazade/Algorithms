@@ -25,3 +25,6 @@ Devamında Sıralayarak Birleştiriyoruz
 
 | 8 | 11 | 12 | 16 | 21 | 22 |
 |:--|:---|:---|:---|:---|:---|
+
+
+## Time Complexity : O(n^2)
