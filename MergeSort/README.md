@@ -1,8 +1,9 @@
 # MERGE SORT
+Tüm elemanlar tek kalana kadar diziyi ortadan ikiye bölüyoruz.
 
  | 16 | 21 | 11 | 8 | 12 | 22 |
  |:---|:---|:---|:---|:---|:---|
-Tüm elemanlar tek kalana kadar diziyi ortadan ikiye bölüyoruz.
+
 * |   | 16 | 21 | 11 |   | 8 | 12 | 22 |    |
 * | 16 |  | 21 | 11 |     | 8 |   | 12 | 22 |
 * | 16 | | 21 | | 11 |   | 8 | | 12 | | 22 |
